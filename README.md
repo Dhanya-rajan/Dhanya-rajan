@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanyaa Rajan</h1>
 <h3 align="center">A passionate Aerospace Engineering student at Georgia Tech</h3>
 
-- 🔭 I’m currently working on **Aerospace & mechanical engineering projects including CFD simulations, structural FEA, rocket recovery systems**
+- 🔭 I’m currently working on **Aerospace & mechanical engineering projects including MATLAB based aerospace dynamics simulations for rockets, quadcopters, and recovery systems.
 
 - 👯 I’m actively looking for internships in **Aerospace, mechanical, propulsion, structures, robotics, and simulation-driven engineering roles.**
 
